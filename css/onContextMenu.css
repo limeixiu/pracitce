@@ -1,0 +1,29 @@
+div#context{
+	width: 800px;
+	height: 80px;
+	padding: 30px;
+	line-height: 80px;
+	background: rgb(245,245,245);
+	border: 1px solid #999;
+	font-size: 30px;
+	border-right: none;
+	border-radius: 6px 0px 0px 6px;
+}
+#menu{
+	position: absolute;
+	width: 380px;
+	height: 140px;
+	padding-left: 20px;
+	background:rgb(255,255,255);
+	border: 1px solid #999;
+	z-index: 100;
+	border-radius: 6px;
+	vertical-align:middle;
+}
+
+li{
+	list-style: none;
+	font-weight: bold;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
